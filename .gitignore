@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# allow readme and gitignore 
+!README.md
+!.gitignore
+
+# NeoVim Configurations
+!nvim*
