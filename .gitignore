@@ -7,3 +7,6 @@
 
 # NeoVim Configurations
 !nvim*
+
+# tmux configs
+!tmux*
