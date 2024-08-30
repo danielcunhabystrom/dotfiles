@@ -12,4 +12,5 @@
 !tmux*
 
 # wezterm configs
-!wezterm*
+!wezterm
+!wezterm/*
