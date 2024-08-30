@@ -10,3 +10,6 @@
 
 # tmux configs
 !tmux*
+
+# wezterm configs
+!wezterm*
