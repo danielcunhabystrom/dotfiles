@@ -24,7 +24,7 @@
 !wezterm/.config/wezterm/*
 
 # zsh
-!zsh/
+!zsh/**
 !zsh/.config/
 !zsh/.config/zsh
 !zsh/.config/zsh/*
