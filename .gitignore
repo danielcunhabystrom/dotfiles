@@ -6,10 +6,13 @@
 !.gitignore
 
 # NeoVim Configurations
+!nvim/.config/nvim/
 !nvim/.config/nvim/*
 
 # tmux configs
+!tmux/.config/tmux/
 !tmux/.config/tmux/*
 
 # wezterm configs
+!wezterm/.config/wezterm/
 !wezterm/.config/wezterm/*
