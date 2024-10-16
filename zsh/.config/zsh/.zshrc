@@ -18,3 +18,5 @@ export PATH=$PATH:/snap/bin
 # Load ssh-keys
 eval $(ssh-agent -s)
 ssh-add
+
+eval "$(starship init zsh)"
