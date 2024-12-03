@@ -20,3 +20,5 @@ eval $(ssh-agent -s)
 ssh-add
 
 eval "$(starship init zsh)"
+
+# Check
